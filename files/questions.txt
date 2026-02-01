@@ -1,0 +1,3 @@
+How are you=Good
+Where do you stay=Mum
+What you like to eat=Pizza
